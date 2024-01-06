@@ -33,16 +33,16 @@ div {
 }
 
 .left {
-  height: 1000px;
-  width: 45px;
+  height: 1600px;
+  width: 20px;
   background-color: #7f8282;
   float: left;
   position: fixed;
 }
 
 .right {
-  height: 1000px;
-  width: 45px;
+  height: 1600px;
+  width: 20px;
   background-color: #7f8282;
   float: right;
   position: inherit;
@@ -51,8 +51,8 @@ div {
 .stuff {
   display: inline-block;
   margin-top: 6px;
-  margin-left: 55px;
-  width: 75%;
+  margin-left: 25px;
+  width: 90%;
   height: 1000px;
 }
 
