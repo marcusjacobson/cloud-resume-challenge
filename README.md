@@ -18,7 +18,7 @@ I've chosen to do the Azure challenge first due to having more familiarity with 
 10. **Update the Azure Function using Python**
 11. **Deploy Tests for the Python Code**
 12. **Create an ARM template to manage the Azure Function**
-13. *IN PROGRESS* - **Create a GitHub Repository for the Backend Code**
+13. *IN PROGRESS* - **Create a GitHub Repository for the Backend Code** - Created a GitHub Repository now to host the files that will be used for the static website, and will udpate accordingly with future docs.
 14. **Create a GitHub Action to run the Python Test when Updating the ARM Template**
 15. **Create a GitHub Action to update the Azure Storage Blob when Changing Website Code**
 16. *IN PROGRESS* - **Certification** - The challenge calls for completing the AZ-900 (Azure Fundamentls), and I have already completed this along with AZ-104 and AZ-400 prior to embarking on this challenge.**Create a Blog Post to Share Learnings** - I've created a [blog](https://marcusjacobson.hashnode.dev/) to journal my progress as I go.
