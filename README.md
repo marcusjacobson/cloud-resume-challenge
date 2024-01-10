@@ -2,6 +2,8 @@
 
 This repository is for hosting the files and status updates relating to my progress with the [Cloud Resume Challenge](https://cloudresumechallenge.dev/).
 
+For more details on my progress, please see my [HashNode Blog](https://marcusjacobson.hashnode.dev/?source=top_nav_blog_home).
+
 ## Project 1 - Azure
 I've chosen to do the Azure challenge first due to having more familiarity with the plaform, and having multiple existing certifications in Azure at the time of this project.
 
