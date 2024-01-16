@@ -1,0 +1,30 @@
+{
+    "scriptFile": "__init__.py",
+    "bindings": [
+      {
+        "name": "messageJSON",
+        "type": "table",
+        "tableName": "cloud-resume-challege-visitor-counter",
+        "rowKey": "{id}",
+        "connection": "DefaultEndpointsProtocol=https;AccountName=mjcloudresumetabledb;AccountKey=4vGqnb8l5HBzDi9uhLolr3sC4qGzaDdwrr8dDfaWthpMKnB1nV78FHEJKPq6M5VMNCiYy9ThJQ8LACDbtN3Byg==;TableEndpoint=https://mjcloudresumetabledb.table.cosmos.azure.com:443/;",
+        "direction": "in"
+      },
+      {
+        "authLevel": "function",
+        "type": "httpTrigger",
+        "direction": "in",
+        "name": "req",
+        "methods": [
+          "get",
+          "post"
+        ],
+        "route": "messages/{id}"
+      },
+      {
+        "type": "http",
+        "direction": "out",
+        "name": "$return"
+      }
+    ],
+    "disabled": false
+  }

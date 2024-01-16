@@ -15,7 +15,7 @@ I've chosen to do the Azure challenge first due to having more familiarity with 
 5. *COMPLETE* - **Secure the Static Website with HTTPS using an Azure CDN Endpoint** - Completed and availale using the [CDN link](https://mjcloudresumeep2.azureedge.net).
 6. *COMPLETE* - **Point a Custom DNS Domain Name to the Azure CDN Endpoint** - Completed and available at my custom URL [https://az.mjresume.work](https://az.mjresume.work).
 7. **Add a Javascript Visitor Counter to the Website**
-8. **Deploy a Cosmos DB Database for the Visitor Counter Data**
+8.*COMPLETE* - **Deploy a Cosmos DB Database for the Visitor Counter Data** - Created a Cosmos DB account and deployed a new Table
 9. **Deploy an API for the Visitor Counter to Commumicate to the Cosmos DB Instance using Azure Functions**
 10. **Update the Azure Function using Python**
 11. **Deploy Tests for the Python Code**
